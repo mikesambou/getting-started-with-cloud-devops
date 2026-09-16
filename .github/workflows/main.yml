@@ -25,4 +25,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Greetings
-        run: echo Hello World
+        run: echo Welcome to the Cloud DevOps course!
